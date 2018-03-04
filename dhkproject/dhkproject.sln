@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dhkproject", "dhkproject.csproj", "{C3EF85E4-15C8-21C6-E98B-C49CDAFA6B48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dhkproject.Plugins", "dhkproject.Plugins.csproj", "{42D66A45-995C-3189-454B-71E455A8B92B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dhkproject.Editor", "dhkproject.Editor.csproj", "{912DB0BF-53A8-975D-9AD8-937B810B0C25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dhkproject.Editor.Plugins", "dhkproject.Editor.Plugins.csproj", "{2A9ADBD2-FD45-1292-6E94-91D5CFF40557}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3EF85E4-15C8-21C6-E98B-C49CDAFA6B48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3EF85E4-15C8-21C6-E98B-C49CDAFA6B48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3EF85E4-15C8-21C6-E98B-C49CDAFA6B48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3EF85E4-15C8-21C6-E98B-C49CDAFA6B48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42D66A45-995C-3189-454B-71E455A8B92B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42D66A45-995C-3189-454B-71E455A8B92B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42D66A45-995C-3189-454B-71E455A8B92B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42D66A45-995C-3189-454B-71E455A8B92B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{912DB0BF-53A8-975D-9AD8-937B810B0C25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{912DB0BF-53A8-975D-9AD8-937B810B0C25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{912DB0BF-53A8-975D-9AD8-937B810B0C25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{912DB0BF-53A8-975D-9AD8-937B810B0C25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A9ADBD2-FD45-1292-6E94-91D5CFF40557}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A9ADBD2-FD45-1292-6E94-91D5CFF40557}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A9ADBD2-FD45-1292-6E94-91D5CFF40557}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A9ADBD2-FD45-1292-6E94-91D5CFF40557}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
